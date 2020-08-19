@@ -30,6 +30,7 @@ One-handed form:
 
 Two-handed form:
 - 1d12 slashing, two-handed reach, trick, chargeable
+- Charge attack:
     - 4d12 slashing, attack every creature in range (roll one attack roll). Targets that are hit are knocked prone.
 
 ![Alt Text](https://bloodborne.wiki.fextralife.com/file/Bloodborne/hunter_axe.gif)
