@@ -29,7 +29,7 @@ One-handed form:
     - 4d8 slashing, target must make a Strength saving throw or be stunned for one round (DC = 8 + proficiency modifier + Strength)
 
 Two-handed form:
-- 1d12 slashing, two-handed reach, trick, chargeable
+- 1d12 slashing, two-handed, reach, trick, chargeable
 - Charge attack:
     - 4d12 slashing, attack every creature in range (roll one attack roll). Targets that are hit are knocked prone.
 
