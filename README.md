@@ -9,7 +9,13 @@
 - No fly speeds
 - All characters are proficient with all Hunter weapons
 
-## [Hunter Weapons (melee)](Weapons.md)
+## New Mechanics
+- Dodging
+- Gun parry
+- Blood Vials
+- Lanterns
+
+## [Hunter Weapons (melee)](MeleeWeapons.md)
 - Hunter's Axe
 - Saw Cleaver
 - Threaded Cane
@@ -27,5 +33,6 @@
 - Cannon????
 
 ## Consumables
+- Blood vial
 - Fire Paper
 - Bolt Paper
