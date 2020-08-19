@@ -1,7 +1,7 @@
 # Hunter Weapons
 
 ## New Weapon Properties
-----
+
 ### Trick
 The weapon has two forms that can be switched between in or out of combat
 - Spend a bonus action to change forms
