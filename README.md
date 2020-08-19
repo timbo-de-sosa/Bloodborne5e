@@ -1,4 +1,4 @@
-# Bloodborn
+# Bloodborne
 
 ## Character Specs
 - Level 10
