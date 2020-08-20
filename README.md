@@ -6,7 +6,7 @@
 - Outlawed spells:
   - Cure Wounds
   - Healing Word
-- No fly speeds
+- All fly speeds are zero
 - All characters are proficient with all Hunter weapons
 - Monks may use their bonus action unarmed strike after using Hunter Weapons as if they'd used a monk weapon
 
@@ -17,9 +17,9 @@
 - [Lanterns](Mechanics.md#Lanterns) - safe places to rest
 
 ## [Hunter Weapons (melee)](MeleeWeapons.md)
-- Hunter's Axe
-- Saw Cleaver
-- Threaded Cane
+- [Hunter's Axe](MeleeWeapons.md#hunters-axe)
+- [Saw Cleaver](MeleeWeapons.md#saw-cleaver)
+- [Threaded Cane](MeleeWeapons.md#threaded-cane)
 - Beast Cutter
 - Rifle Spear
 - Kirkhammer

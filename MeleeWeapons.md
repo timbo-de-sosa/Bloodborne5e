@@ -76,9 +76,9 @@ Cane form:
     - 6d6 bludgeoning, target is stunned until the beginning of your next turn if hit
 
 Whip form:
-- 1d6 slashing, reach, trick, chargeable, finesse, serrated
+- 1d6 slashing, reach (15 feet), trick, chargeable, finesse, serrated
 - Charge attack:
-    - 6d6 slashing, make one attack roll and hit creatures in a ten foot cone
+    - 6d6 slashing, make one attack roll and hit creatures in a 15-foot cone
 
 ![Alt Text](https://bloodborne.wiki.fextralife.com/file/Bloodborne/threaded_cane.gif)
 
