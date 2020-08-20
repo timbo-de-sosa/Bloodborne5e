@@ -1,7 +1,7 @@
 # Bloodborne
 
 ## Character Specs
-- Level 10
+- Level 11
 - No full casters (Bard, Cleric, Druid, Sorcerer, Wizard)
 - Outlawed spells:
   - Cure Wounds
