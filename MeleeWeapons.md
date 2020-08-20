@@ -17,6 +17,8 @@ The weapon can perform a charge attack. As part of an Attack action, you may spe
 - You lose your weapon
 - You fail a concentration check (e.g. you are damaged and fail your Constituion saving throw)
 
+Note: If the hunter has a bonus action that allows them to perform an attack as part of an Attack action, they may perform this attack before beginning the charge.
+
 ### Serrated 
 The weapon has sharp, blood-letting teeth, effective at drawing the blood of beasts.
 - Double the ability bonus you add to damage rolls with this weapon when attacking an enemy with the Beast trait. For example, if normally you would add your +3 Stength modifer to damage rolls, instead you would add +6 with this weapon. 
