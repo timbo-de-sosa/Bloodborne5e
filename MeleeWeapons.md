@@ -62,3 +62,21 @@ Two-handed form:
     - 6d10 slashing, target is stunned until the beginning of your next turn if hit
 
 ![Alt Text](https://bloodborne.wiki.fextralife.com/file/Bloodborne/saw_cleaver.gif)
+
+### Threaded Cane
+> "One of the trick weapons of the workshop, commonly used by hunters on their duties. Sufficiently deadly as a rigid bladed cane, but also serves as a whip when its blade is split into many. Concealing the weapon inside the cane and flogging the beasts with the whip is partly an act of ceremony, an attempt to demonstrate to oneself that the bloodlust of the hunt will never encroach upon the soul." (https://bloodborne.wiki.fextralife.com/Threaded+Cane)
+
+This trick weapon transforms between a cane and a notched whip. Note that this weapon is one-handed in both forms.
+
+Cane form:
+- 1d6 bludgeoning, trick, chargeable, finesse, fast
+- Charge attack:
+    - 6d6 bludgeoning, target is stunned until the beginning of your next turn if hit
+
+Whip form:
+- 1d6 slashing, reach, trick, chargeable, finesse, serrated
+- Charge attack:
+    - 6d6 slashing, attack up to three creatures in a ten foot cone
+
+![Alt Text](https://bloodborne.wiki.fextralife.com/file/Bloodborne/threaded_cane.gif)
+

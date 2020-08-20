@@ -8,6 +8,7 @@
   - Healing Word
 - No fly speeds
 - All characters are proficient with all Hunter weapons
+- Monks may use their bonus action unarmed strike after using Hunter Weapons as if they'd used a monk weapon
 
 ## New Mechanics
 - Dodging
