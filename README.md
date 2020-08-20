@@ -28,9 +28,9 @@
 - Chikage?
 - Rakuyo? Blade of Mercy?
 
-## Hunter Weapons (guns)
-- Hunter's Pistol
-- Hunter's Blunderbuss
+## [Hunter Weapons (guns)](RangedWeapons.md)
+- [Hunter's Pistol](RangedWeapons.md#hunters-pistol)
+- [Hunter's Blunderbuss](RangedWeapons.md#blunderbuss)
 - Cannon????
 
 ## Consumables
