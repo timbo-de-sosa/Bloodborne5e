@@ -33,7 +33,7 @@
 - [Hunter's Blunderbuss](RangedWeapons.md#blunderbuss)
 - Cannon????
 
-## Consumables
-- Blood vial
-- Fire Paper
-- Bolt Paper
+## [Consumables](Consumables.md)
+- [Blood vial](Consumables.md#blood-vial)
+- [Fire Paper](Consumables.md#fire-paper)
+- [Bolt Paper](Consumables.md#bolt-paper)
