@@ -1,5 +1,7 @@
 # Hunter Firearms
 
+You can make players count bullets if you want, but it sounds like a pain in the ass so no thanks.
+
 ## New Weapon Properties
 
 ### Multishot
