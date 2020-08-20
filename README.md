@@ -14,7 +14,7 @@
 - Dodging
 - Gun parry
 - Blood Vials
-- [Lanterns](Mechanics.md#Lanterns)
+- [Lanterns](Mechanics.md#lanterns)
 
 ## [Hunter Weapons (melee)](MeleeWeapons.md)
 - Hunter's Axe
