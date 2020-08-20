@@ -16,9 +16,9 @@ The Hunter has a stock of Blood Vials, special healing blood ministrations devel
 - Hunters may not acces each other's Blood Bags
 - Blood Vials found in the world may be added to the hunter's Blood Bag as long as the Blood Bag Capacity is not surpassed.
 
-## Lantern
+## Lanterns
 Hunters may only perform a short rest when they've found a Hunter's Lantern. They are safe at Lanterns, and no enemies will attack. If a party member dies, they immediately respawn standing at the Lantern at which they've most recently rested, and they are able to run back to the fight.
 - When the party finds a Lantern for the first time, resting does not confer any penalties. 
 - Resting at a Lantern for the second time causes all non-boss monsters to respawn.
-- Resting at a Lantern refill's the hunter's Blood Bag to its maximum capacity.
+- Resting at a Lantern refill's the hunter's Blood Bag to its Blood Bag Capacity.
 - Hunters may teleport to and from any Lantern they have discovered. This also causes enemies to respawn.
