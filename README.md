@@ -11,10 +11,10 @@
 - Monks may use their bonus action unarmed strike after using Hunter Weapons as if they'd used a monk weapon
 
 ## [New Mechanics](Mechanics.md)
-- [Dodging](Mechanics.md#Dodging)
-- [Gun Parry](Mechanics.md#Gun-Parry)
-- [Blood Vials](Mechanics.md#Blood-Vials)
-- [Lanterns](Mechanics.md#Lanterns)
+- [Dodging](Mechanics.md#Dodging) - dodge attacks as a reaction
+- [Gun Parry](Mechanics.md#Gun-Parry) - parry attacks with an offhand firearm
+- [Blood Vials](Mechanics.md#Blood-Vials) - limited supply of healing potions for each hunter
+- [Lanterns](Mechanics.md#Lanterns) - safe places to rest
 
 ## [Hunter Weapons (melee)](MeleeWeapons.md)
 - Hunter's Axe
