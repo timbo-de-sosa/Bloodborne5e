@@ -9,28 +9,56 @@ The weapon has two forms that can be switched between in or out of combat
 - If the form you are changing to has the two-handed property, any item you're carrying in your off-hand can be immediately stowed except for shields
 
 ### Chargeable
-The weapon can perform a charge attack. You may spend an action to begin charging the weapon. You are considered to be concentrating, as if on a spell with some extra conditions. If you maintain concentration, then on a subsequent turn, you can take the Attack action, and the first attack of the action will be the charge action listed in the weapons description. If any of the following conditions are met, you lose concentration on the charge attack.
+The weapon can perform a charge attack. As part of an Attack action, you may spend an attack to begin charging the weapon. You are considered to be concentrating, as if on a spell but with extra conditions. If you maintain concentration, then on a subsequent turn, you can take the Attack action, and the first attack of the action will be the charge action listed in the weapons description. If any of the following conditions are met, you lose concentration on the charge attack.
 - You use your movement (forced movement does not break concentration)
 - You use an action, reaction, or bonus action
+- You perform an attack
 - You receive the stunned or prone conditions
 - You lose your weapon
 - You fail a concentration check (e.g. you are damaged and fail your Constituion saving throw)
 
+### Serrated 
+The weapon has sharp, blood-letting teeth, effective at drawing the blood of beasts.
+- Double the ability bonus you add to damage rolls with this weapon when attacking an enemy with the Beast trait. For example, if normally you would add your +3 Stength modifer to damage rolls, instead you would add +6 with this weapon. 
+- To clarify, not all animals are considered to have the Beast trait. Rather this trait applies only to humans who have given into the Beast Plague and fully transformed into beasts.
+- Why does a weapon being serrated only make it more effective against Beasts? Not sure, ask Miyazaki. 
+
+### Fast
+This weapon is quick, allowing you to make more attacks than you would normally be able to make.
+- You may use a bonus action to attack with this weapon as if it were an off-hand weapon (no stat bonus to damage). You do not need to perform an Attack action in order to make this attack.
+
 ## Melee Weapons
 
 ### Hunter's Axe
-> "One of the trick weapons of the workshop, commonly used on the hunt. Retains the qualities of an axe, but offers a wider palette of attacks by transforming. Boasts a heavy blunt attack, leading to high rally potential. No matter their pasts, beasts are no more than beasts. Some choose this axe to play the part of executioner."
+> "One of the trick weapons of the workshop, commonly used on the hunt. Retains the qualities of an axe, but offers a wider palette of attacks by transforming. Boasts a heavy blunt attack, leading to high rally potential. No matter their pasts, beasts are no more than beasts. Some choose this axe to play the part of executioner." (https://bloodborne.wiki.fextralife.com/Hunter+Axe)
 
 The regular form of this weapon is a simple axe, and swung as such. The transformed mode extends the telescopic handle, essentially transforming the weapon into a halberd. The weapon is held with both hands, giving up the left-hand weapon for extended reach and a wider variety of attacks. It has an extended reach and therefore is helpful when you need stay a safer distance away from opponents in melee range.
 
 One-handed form:
 - 1d8 slashing, trick, chargeable
 - Charge attack:
-    - 4d8 slashing, target must make a Strength saving throw or be stunned for one round (DC = 8 + proficiency modifier + Strength)
+    - 6d8 slashing, target is stunned until the beginning of your next turn if hit
 
 Two-handed form:
 - 1d12 slashing, two-handed, reach, trick, chargeable
 - Charge attack:
-    - 4d12 slashing, attack every creature in range (roll one attack roll). Targets that are hit are knocked prone.
+    - 5d12 slashing, attack every creature in range (make one attack roll). Targets that are hit are knocked prone.
 
-![Alt Text](https://bloodborne.wiki.fextralife.com/file/Bloodborne/hunter_axe.gif)
+![](https://bloodborne.wiki.fextralife.com/file/Bloodborne/hunter_axe.gif)
+
+### Saw Cleaver
+> "One of the trick weapons of the workshop, commonly used in the hunting business. This saw, effective at drawing the blood of beasts, transforms into a long cleaver that makes use of centrifugal force. The saw, with its set of blood-letting teeth, has become a symbol of the hunt, and only grows in effectiveness the more grotesquely transformed the beast." (https://bloodborne.wiki.fextralife.com/Saw+Cleaver)
+
+Transforms between a saw and an extended cleaver. Classified as serrated while wielded in the default saw form.
+
+One-handed form:
+- 1d6 slashing, trick, chargeable, serrated, fast
+- Charge attack:
+    - 6d6 slashing, target is stunned until the beginning of your next turn if hit
+
+Two-handed form:
+- 1d10 slashing, two-handed, reach, trick, chargeable
+- Charge attack:
+    - 6d10 slashing, target is stunned until the beginning of your next turn if hit
+
+![Alt Text](https://bloodborne.wiki.fextralife.com/file/Bloodborne/saw_cleaver.gif)
