@@ -109,3 +109,20 @@ _Shield_
 
 ![Alt Text](https://thumbs.gfycat.com/ClassicWateryCat-max-1mb.gif)
 
+### Chikage
+> "Foreign-made weapon wielded by the royal guards who protect Annalise, Queen of the Vilebloods at Cainhurst Castle. When the intricate, rippled engraving that spans the Chikage's blade is imbued with blood, the sword sings in scarlet hues. However, the rite eats away at the wielder's very essence." (https://bloodborne.wiki.fextralife.com/Chikage)
+
+This katana is less of a "trick" weapon and more of a grisly, ghoulish cursed weapon. In its normal form, it is a simple katana. As part of the transformation, the wielder painfully coats the weapon with their own blood, which flows around the sword and extends its reach. This weapon is extremely damaging, but it drains the user's life force when transformed.
+
+#### Normal form:
+- 1d8 slashing, trick, chargeable, finesse, versatile
+- Charge attack:
+    - 6d8 slashing, target is stunned until the beginning of your next turn if hit
+
+#### BLOOD form:
+- 1d8 slashing, 1d8 necrotic, two-handed, reach, trick, chargeable, finesse
+- Charge attack:
+    - 4d8 slashing, 4d8 necrotic, target is stunned until the beginning of your next turn if hit
+- Drain: When transformed from normal form to BLOOD form, this weapon deals 1d6 necrotic damage to the wielder. If the sword is in blood form at the end of the wielder's turn, they also receive 1d6 necrotic damage (so it can happen twice in one turn)
+
+![Alt Text](https://vignette.wikia.nocookie.net/bloodborne/images/2/23/Chikage_Bloodborne.gif/revision/latest/scale-to-width-down/340?cb=20180420040341)

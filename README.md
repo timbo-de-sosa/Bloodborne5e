@@ -25,6 +25,14 @@ No matter. The Healing Church culls outbreaks of the Beast Plague though the Hun
 - All characters are proficient with all Hunter weapons, including firearms
 - Monks may use their bonus action unarmed strike after using Hunter Weapons as if they'd used a monk weapon
 
+## Enemy Behavior
+- It will be extremely rare to meet anyone outside who is coherent and doesn't want to kill you. All of the uninfected folks are locked safely behind their doors.
+- There's honestly not much use for skills other than Athletics or Acrobatics here, sorry rogues
+- Enemies are bloodthirsty and will attack unconscious PCs unless distracted.
+- Enemies under the effects of the Beast Plague (which is most of them), are lost in a haze, so they will either be standing around muttering or mindlessly patrolling a simple route. However, groups of enemies standing near each other have fallen into a pack mentality, so when one is disturbed, all will attack. 
+- Enemies that are under effects of the Beast Plague but not fully transformed are vicious but simple in their strategies, usually attacking the nearest opponent. Fully transformed beast may be more cunning.
+- Enemies under the effects of the Beast Plague know no fear and will fight to the last person, even when victory is hopeless.
+
 ## [New Mechanics](Mechanics.md)
 - [Dodging](Mechanics.md#Dodging) - dodge attacks as a reaction
 - [Gun Parry](Mechanics.md#Gun-Parry) - parry attacks with an offhand firearm
