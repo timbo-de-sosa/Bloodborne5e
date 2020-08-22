@@ -85,3 +85,26 @@ Whip form:
 
 ![Alt Text](https://bloodborne.wiki.fextralife.com/file/Bloodborne/threaded_cane.gif)
 
+### Charge Blade
+> This weapon was imported from a far away land with a culture obsessed with the killing and harvesting of innocent beasts. Perhaps the wielder seeks redemption in hunting the not-so-innocent beasts of Yharnam.
+
+This trick weapon is a paired sword and shield that combine together to form a greataxe.
+
+Sword/Shield form:
+Sword
+- 1d8 slashing, trick, chargeable
+- Charge attack:
+    - 6d8 slashing, target is stunned until the beginning of your next turn if hit
+
+Shield
+- Normal ass shield held in the off-hand, +2 AC
+- Shield Block:
+    - When attacked (ranged or melee), the wielder may spend their reaction to make a Strength or Constitution saving throw, with the DC being the value of the attack roll. If the save is successful, the attack deals no damage. If the triggering attack was melee, the next attack against the attacker has advantage, as the attacker is off-balance.
+
+Axe form:
+- 1d12 slashing, trick, chargeable
+- Charge attack:
+    - 6d12 slashing, target is stunned until the beginning of your next turn if hit
+
+![Alt Text](https://thumbs.gfycat.com/ClassicWateryCat-max-1mb.gif)
+
