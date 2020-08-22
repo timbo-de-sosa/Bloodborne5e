@@ -9,7 +9,7 @@ The weapon has two forms that can be switched between in or out of combat
 - If the form you are changing to has the two-handed property, any item you're carrying in your off-hand can be immediately stowed except for shields
 
 ### Chargeable
-The weapon can perform a charge attack. As part of an Attack action, you may spend an attack to begin charging the weapon. You are considered to be concentrating, as if on a spell but with extra conditions. If you maintain concentration, then on a subsequent turn, you can take the Attack action, and the first attack of the action will be the charge action listed in the weapons description. If any of the following conditions are met, you lose concentration on the charge attack.
+The weapon can perform a charge attack. As part of an Attack action, you may spend an attack to begin charging the weapon. You are considered to be concentrating, as if on a spell but with extra conditions (does not interfere with actual spell concentration). If you maintain concentration, then on a subsequent turn, you can take the Attack action, and the first attack of the action will be the charge action listed in the weapons description. If any of the following conditions are met, you lose concentration on the charge attack.
 - You use your movement (forced movement does not break concentration)
 - You use an action, reaction, or bonus action
 - You perform an attack
