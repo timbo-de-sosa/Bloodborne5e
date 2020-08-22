@@ -103,7 +103,7 @@ _Shield_
     - When attacked (ranged or melee), the wielder may spend their reaction to make a Strength or Constitution saving throw, with the DC being the value of the attack roll. If the save is successful, the attack deals no damage. If the triggering attack was melee, the next attack against the attacker has advantage, as the attacker is off-balance.
 
 #### Axe form:
-- 1d12 slashing, trick, chargeable
+- 1d12 slashing, trick, reach, chargeable
 - Charge attack:
     - 6d12 slashing, target is stunned until the beginning of your next turn if hit
 
