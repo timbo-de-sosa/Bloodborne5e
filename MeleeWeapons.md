@@ -30,6 +30,7 @@ The weapon has sharp, blood-letting teeth, effective at drawing the blood of bea
 ### Fast
 This weapon is quick, allowing you to make more attacks than you would normally be able to make.
 - You may use a bonus action to attack with this weapon as if it were an off-hand weapon (no stat bonus to damage). You do not need to perform an Attack action in order to make this attack.
+- If you have a class feature that does allow you to add your stat bonus to off-hand weapon damage rolls, that applies to Fast weapons as well.
 
 ## Melee Weapons
 
@@ -73,12 +74,12 @@ Two-handed form:
 This trick weapon transforms between a cane and a notched whip. Note that this weapon is one-handed in both forms.
 
 Cane form:
-- 1d6 bludgeoning, trick, chargeable, finesse, fast
+- 1d8 bludgeoning, trick, chargeable, finesse, fast
 - Charge attack:
-    - 6d6 bludgeoning, target is stunned until the beginning of your next turn if hit
+    - 6d8 bludgeoning, target is stunned until the beginning of your next turn if hit
 
 Whip form:
-- 1d6 slashing, reach (15 feet), trick, chargeable, finesse, serrated
+- 1d8 slashing, reach (15 feet), trick, chargeable, finesse, serrated
 - Charge attack:
     - 6d6 slashing, make one attack roll and hit creatures in a 15-foot cone
 
