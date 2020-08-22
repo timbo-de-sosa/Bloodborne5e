@@ -124,5 +124,6 @@ This katana is less of a "trick" weapon and more of a grisly, ghoulish cursed we
 - Charge attack:
     - 5d8 slashing, 5d8 necrotic, target is stunned until the beginning of your next turn if hit
 - Drain: When transformed from normal form to BLOOD form, this weapon deals 1d6 necrotic damage to the wielder. If the sword is in blood form at the end of the wielder's turn, they also receive 1d6 necrotic damage (so it can happen twice in one turn). NOTE: This damage does not trigger the Rally mechanic. It cannot be healed with Rally, but it also doesn't replace the most recent attack in the rally pool.
-
+    - This damage may not be reduced in any way
+    
 ![Alt Text](https://vignette.wikia.nocookie.net/bloodborne/images/2/23/Chikage_Bloodborne.gif/revision/latest/scale-to-width-down/340?cb=20180420040341)
