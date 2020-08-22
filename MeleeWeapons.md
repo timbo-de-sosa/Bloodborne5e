@@ -91,6 +91,7 @@ Whip form:
 This trick weapon is a paired sword and shield that combine together to form a greataxe.
 
 Sword/Shield form:
+
 Sword
 - 1d8 slashing, trick, chargeable
 - Charge attack:
