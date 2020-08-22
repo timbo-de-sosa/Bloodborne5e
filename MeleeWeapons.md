@@ -17,7 +17,9 @@ The weapon can perform a charge attack. As part of an Attack action, you may spe
 - You lose your weapon
 - You fail a concentration check (e.g. you are damaged and fail your Constituion saving throw)
 
-Note: If the hunter has a bonus action that allows them to perform an attack as part of an Attack action, they may perform this attack before beginning the charge.
+Notes: 
+- If the hunter has a bonus action that allows them to perform an attack as part of an Attack action, they may perform this attack before beginning the charge.
+- Concentrating on a charge attack is similar to concentrating on a spell but not the same, and you maybe concentrate on both at once if you want to get wild.
 
 ### Serrated 
 The weapon has sharp, blood-letting teeth, effective at drawing the blood of beasts.

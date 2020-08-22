@@ -1,4 +1,10 @@
 # Bloodborne
+## Acknowledgements
+I was inspired by the following posts and took ideas and mechanics from all of them!
+- https://homebrewery.naturalcrit.com/share/ryxzmHAmx
+- https://imgur.com/gallery/unzUa4k
+- https://www.reddit.com/r/DnD/comments/id1k4n/oc_fighter_archetype_beast_hunter_i_hope_from/
+- Special shoutout to [fextralife](https://bloodborne.wiki.fextralife.com/Bloodborne+Wiki), both for content in this repo and also for helping me get through the actual game XD 
 
 ## Intro
 The city of Yharnam is known the world over for the miraculous Blood Ministrations of its Healing Church, able to cure all manner of diseases. The city produces so much sacred blood that even normal townsfolk partake of it recreationally, to the point where the city produces more blood than alcohol.
