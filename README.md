@@ -1,7 +1,7 @@
 # Bloodborne
 
 ## Character Specs
-- Level 11
+- Level 10
 - No full casters (Bard, Cleric, Druid, Sorcerer, Wizard)
 - Outlawed spells:
   - Cure Wounds
@@ -14,6 +14,7 @@
 - [Dodging](Mechanics.md#Dodging) - dodge attacks as a reaction
 - [Gun Parry](Mechanics.md#Gun-Parry) - parry attacks with an offhand firearm
 - [Blood Vials](Mechanics.md#Blood-Vials) - limited supply of healing potions for each hunter
+- [Rally](Mechanics.md#Rally) - counter-attack to heal damage received
 - [Lanterns](Mechanics.md#Lanterns) - safe places to rest
 
 ## [Hunter Weapons (melee)](MeleeWeapons.md)

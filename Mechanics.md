@@ -20,6 +20,13 @@ The Hunter has a stock of Blood Vials, special healing blood ministrations devel
 - Reminder that hunters may not acces Blood Vials in each other's Hunter's Packs
 - Blood Vials found in the world may be added to the hunter's Blood Bag as long as the Blood Vial Capacity is not surpassed.
 
+## Rally
+"In Yharnam, the best defense is a solid, strategic offense. When you take damage from enemies, counter-attack the enemy within a certain period of time to regain some of your lost HP."
+- Whenever you take damage from an attack, until the end of your next turn, when you damage an enemy with an attack, heal half the damage dealt (rounding down as usual). 
+- You can heal an amount equal to the most recent amount of damage received (called your Rally Pool). For example, if an enemy hits you on their turn for 10 damage, your Rally pool becomes 10, and you have until the end of your turn to heal that 10 damage.
+- This only applies to the most recent source of damage, so if an enemy hits you for 50 damage, and then another enemy hits you for 5 damage, your Rally Pool becomes 5, so you may only heal up to 5 damage by the end of your next turn. 
+- Damage that you take on your turn (like from opportunity attacks) must still be healed by the end of your turn, or else you lose the opportunity. 
+
 ## Lanterns
 Hunters may only perform a short rest when they've found a Hunter's Lantern. They are safe at Lanterns, and no enemies will attack. If a party member dies, they immediately respawn standing at the Lantern at which they've most recently rested, and they are able to run back to the fight.
 - When the party finds a Lantern for the first time, resting does not confer any penalties. 

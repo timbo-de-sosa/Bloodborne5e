@@ -2,6 +2,8 @@
 
 Ammo is unlimited because who has the time.
 
+The firearms are considered hand crossbows for the sake of feats dealing with crossbows.
+
 ## New Weapon Properties
 
 ### Multishot
