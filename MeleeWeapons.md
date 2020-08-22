@@ -39,12 +39,12 @@ This weapon is quick, allowing you to make more attacks than you would normally 
 
 The regular form of this weapon is a simple axe, and swung as such. The transformed mode extends the telescopic handle, essentially transforming the weapon into a halberd. The weapon is held with both hands, giving up the left-hand weapon for extended reach and a wider variety of attacks. It has an extended reach and therefore is helpful when you need stay a safer distance away from opponents in melee range.
 
-One-handed form:
+#### One-handed form:
 - 1d8 slashing, trick, chargeable
 - Charge attack:
     - 6d8 slashing, target is stunned until the beginning of your next turn if hit
 
-Two-handed form:
+#### Two-handed form:
 - 1d12 slashing, two-handed, reach, trick, chargeable
 - Charge attack:
     - 5d12 slashing, attack every creature in range (make one attack roll). Targets that are hit are knocked prone.
@@ -56,12 +56,12 @@ Two-handed form:
 
 Transforms between a saw and an extended cleaver. Classified as serrated while wielded in the default saw form.
 
-One-handed form:
+#### One-handed form:
 - 1d6 slashing, trick, chargeable, serrated, fast
 - Charge attack:
     - 6d6 slashing, target is stunned until the beginning of your next turn if hit
 
-Two-handed form:
+#### Two-handed form:
 - 1d10 slashing, two-handed, reach, trick, chargeable
 - Charge attack:
     - 6d10 slashing, target is stunned until the beginning of your next turn if hit
@@ -73,12 +73,12 @@ Two-handed form:
 
 This trick weapon transforms between a cane and a notched whip. Note that this weapon is one-handed in both forms.
 
-Cane form:
+#### Cane form:
 - 1d8 bludgeoning, trick, chargeable, finesse, fast
 - Charge attack:
     - 6d8 bludgeoning, target is stunned until the beginning of your next turn if hit
 
-Whip form:
+#### Whip form:
 - 1d8 slashing, reach (15 feet), trick, chargeable, finesse, serrated
 - Charge attack:
     - 6d6 slashing, make one attack roll and hit creatures in a 15-foot cone
@@ -90,19 +90,19 @@ Whip form:
 
 This trick weapon is a paired sword and shield that combine together to form a greataxe.
 
-Sword/Shield form:
+#### Sword/Shield form:
 
-Sword
+_Sword_
 - 1d8 slashing, trick, chargeable
 - Charge attack:
     - 6d8 slashing, target is stunned until the beginning of your next turn if hit
 
-Shield
+_Shield_
 - Normal ass shield held in the off-hand, +2 AC
 - Shield Block:
     - When attacked (ranged or melee), the wielder may spend their reaction to make a Strength or Constitution saving throw, with the DC being the value of the attack roll. If the save is successful, the attack deals no damage. If the triggering attack was melee, the next attack against the attacker has advantage, as the attacker is off-balance.
 
-Axe form:
+#### Axe form:
 - 1d12 slashing, trick, chargeable
 - Charge attack:
     - 6d12 slashing, target is stunned until the beginning of your next turn if hit
