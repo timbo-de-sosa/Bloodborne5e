@@ -23,6 +23,7 @@ No matter. The Healing Church culls outbreaks of the Beast Plague though the Hun
   - Healing Word
 - All fly speeds are zero
 - All characters are proficient with all Hunter weapons, including firearms
+- Characters may start with three of these weapons, any combination of trick weapons and firearms
 - Monks may use their bonus action unarmed strike after using Hunter Weapons as if they'd used a monk weapon
 
 ## Enemy Behavior
@@ -44,18 +45,12 @@ No matter. The Healing Church culls outbreaks of the Beast Plague though the Hun
 - [Hunter's Axe](MeleeWeapons.md#hunters-axe)
 - [Saw Cleaver](MeleeWeapons.md#saw-cleaver)
 - [Threaded Cane](MeleeWeapons.md#threaded-cane)
-- Beast Cutter
-- Rifle Spear
-- Kirkhammer
-- Stake Driver
-- Tonitrus
-- Chikage?
-- Rakuyo? Blade of Mercy?
+- [Charge Blade](MeleeWeapons.md#charge-blade)
+- [Chikage](MeleeWeapons.md#Chikage)
 
 ## [Hunter Weapons (guns)](RangedWeapons.md)
 - [Hunter's Pistol](RangedWeapons.md#hunters-pistol)
 - [Hunter's Blunderbuss](RangedWeapons.md#blunderbuss)
-- Cannon????
 
 ## [Consumables](Consumables.md)
 - [Blood vial](Consumables.md#blood-vial)
